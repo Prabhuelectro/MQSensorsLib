@@ -58,5 +58,5 @@ Examples/MQ-board.ino
 ```
 
 <p align="center">
-<img width="400" height="530" src=https://raw.githubusercontent.com/Prabhuelectro/MQSensorsLib1/master/image/bg.jpg">
+<img src="https://raw.githubusercontent.com/Prabhuelectro/MQSensorsLib1/master/image/bg.jpg">
 </p>                                                                                                                    
