@@ -34,7 +34,7 @@ You'll need Arduino desktop app 1.8.9 or later.
 Clone this repository into your desktop machine
 
 ```
-git clone https://github.com/miguel5612/MQSensorsLib
+git clone https://github.com/Prabhuelectro/MQSensorsLib
 ```
 
 ## Running the tests
